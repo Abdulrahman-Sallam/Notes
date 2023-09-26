@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1 id="result"></h1>
+    <script>
+      /* | 190,500   | down payment                                                 |
+| :-------- | :----------------------------------------------------------- |
+| 190,500   | 2nd down payment after 3 months                              |
+| 19,050    | Y1 monthly installments                                      |
+| 190,500   | end Y1 package                                               |
+| 19,840    | Y2 monthly installments                                      |
+| 198,400   | end Y1 Package                                               |
+| 20,635    | Y3 monthly installments                                      |
+| 206,350   | end Y3 package                                               |
+| 21,430    | Y4 monthly installments                                      |
+| 214,300   | end Y4 package                                               |
+| 22,220    | Y5 monthly installments                                      |
+| 309,500   | after 57 monthlies to receive the property                   |
+| 197,100   | insurance 1st half after receiving the property              |
+| 197,100   | insurance 2nd half on 36 months after receiving the property |
+| 222,200   | end Y5 package                                               |
+| 23,015    | Y6 monthly installments                                      |
+| 230,150   | end Y6 package                                               |
+| 23,810    | Y7 monthly installments                                      |
+| 238,100   | end Y7 package                                               |
+| 23,810    | Y8 monthly installments                                      |
+| 238,100   | end Y8 package                                               |
+| 24,605    | Y9 monthly installments                                      |
+| 246,050   | end Y9 package                                               |
+| 24,605    | Y10 monthly installments                                     |
+| 246,050   | end Y10 package                                              |
+| 25,395    | Y11 monthly installments                                     |
+| 253,950   | end Y11 package                                              |
+| 26,190    | Y12 monthly installments                                     |
+| 261,900   | end Y12 package                                              |
+| 26,985    | Y13 monthly installments                                     |
+| 269,850   | end Y13 package                                              |
+| 27,775    | Y14 monthly installments                                     |
+| 277,750   | end Y14 package                                              |
+ */
+      // calculat all the payment after all the instalement is payed
+      // note that monthly installments is value * 12
+      //  and monthly instalement change every year
+      // example y2 = 19,0500 + 19,840 * 12
+
+      let result = document.getElementById('result');
+      let downPayment = 190500;
+      let secondDownPayment = 190500;
+      let y1_end = 190500;
+      let y1_installment = 19050 * 12;
+      let y1_total = y1_end + y1_installment;
+      let y2_end = 198400;
+      let y2_installment = 19840 * 12;
+      let y2_total = y2_end + y2_installment;
+      let y3_end = 206350;
+      let y3_installment = 20635 * 12;
+      let y3_total = y3_end + y3_installment;
+      let y4_end = 214300;
+      let y4_installment = 21430 * 12;
+      let y4_total = y4_end + y4_installment;
+      let y5_end = 222200;
+      let y5_installment = 22220 * 12;
+      let y5_total = y5_end + y5_installment;
+      let y6_end = 230150;
+      let y6_installment = 23015 * 12;
+      let y6_total = y6_end + y6_installment;
+      let y7_end = 238100;
+      let y7_installment = 23810 * 12;
+      let y7_total = y7_end + y7_installment;
+      let y8_end = 238100;
+      let y8_installment = 23810 * 12;
+      let y8_total = y8_end + y8_installment;
+      let y9_end = 246050;
+      let y9_installment = 24605 * 12;
+      let y9_total = y9_end + y9_installment;
+      let y10_end = 246050;
+      let y10_installment = 24605 * 12;
+      let y10_total = y10_end + y10_installment;
+      let y11_end = 253950;
+      let y11_installment = 25395 * 12;
+      let y11_total = y11_end + y11_installment;
+      let y12_end = 261900;
+      let y12_installment = 26190 * 12;
+      let y12_total = y12_end + y12_installment;
+      let y13_end = 269850;
+      let y13_installment = 26985 * 12;
+      let y13_total = y13_end + y13_installment;
+      let y14_end = 277750;
+      let y14_installment = 27775 * 12;
+      let y14_total = y14_end + y14_installment;
+      let receive_property = 309500;
+      let insurance_1st_half = 197100;
+      let insurance_2nd_half = 197100;
+      let total =
+        // downPayment +
+        // secondDownPayment +
+        // y1_total +
+        // y2_total +
+        // y3_total +
+        y4_total +
+        y5_total +
+        y6_total +
+        y7_total +
+        y8_total +
+        y9_total +
+        y10_total +
+        y11_total +
+        y12_total +
+        y13_total +
+        y14_total +
+        receive_property +
+        insurance_1st_half +
+        insurance_2nd_half;
+      result.innerHTML = total
+      result.innerHTML +=
+        '  sallam  ' +
+        (y1_total + y2_total + y3_total + downPayment + secondDownPayment);
+    </script>
+  </body>
+</html>
