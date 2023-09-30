@@ -1,10 +1,12 @@
 # **Milestones**
 
-- **Migrate to Canada**
-- **Rank Among the Top Programmers**
+- **Migrate to ~~Canada~~ USA**
 - **Establish a Joyful Family of Seven**
+- **Rank Among the Top Programmers**
 - **Be a Good Son**
-- **Sell the Houses and Find a House in Nasr City**
+- **Sell the Houses and Find a Noor TMG**
+- **wedding Reservation**
+- **Move To Alex**
 
 ---
 
@@ -38,18 +40,18 @@
 
 ## **Health & Fitness**
 
-### **Physical Fitness Enhancement**
+1. ### **Physical Fitness Enhancement**
 
-- **Goal:** *Reduce body weight by 5% and increase stamina by running an additional Kilometer within 6 months.*
+   - **Goal:** *Reduce body weight by 5% and increase stamina by running an additional Kilometer within 6 months.*
 
-- **Tasks**:
-  - **Meal Planning**: Create a monthly meal plan with balanced diet choices.
-  - **Fitness Metrics**: Decide on specific fitness metrics (like weight or stamina) by month's end.
+   - **Tasks**:
+     - **Meal Planning**: Create a monthly meal plan with balanced diet choices.
+     - **Fitness Metrics**: Decide on specific fitness metrics (like weight or stamina) by month's end.
 
-- **Habits**:
-  - **Daily Exercise**: Engage in at least 30 minutes of stretching or exercises daily.
-  - **Activity Breaks**: Take 5-minute activity breaks every hour during working hours.
-  - **Hydration**: Drink at least 8 glasses of water daily.
+   - **Habits**:
+     - **Daily Exercise**: Engage in at least 30 minutes of stretching or exercises daily.
+     - **Activity Breaks**: Take 5-minute activity breaks every hour during working hours.
+     - **Hydration**: Drink at least 8 glasses of water daily.
 
 ## **Life**
 
@@ -91,16 +93,52 @@
 
 1. ### **House Movement**
 
-    - **Goal:** *Sell the houses and find a house in Nasr City.*
+    - **Goal:**
+      - *Sell the houses and find a house in Nasr City.*
+        - **~~sell 1st house~~**: ~~750K in 20/9/2023.~~
+        - **sell 2nd house**
 
     - **Tasks**:
       - **Sell the houses**: Sell the houses by the end of the year.
-      - **Find a house in Nasr City**: Find a house in Nasr City by the end of the year.
+      - ~~**Find a house in Nasr City**: Find a house in Nasr City by the end of the year.~~
+      - ~~**Find a house in Noor TMG**: Find a house in Noor TMG by the end of the year.~~
 
     - **Habits**:
-      - **Daily House Search**: Search for houses daily.
-      - **Weekly House Visits**: Visit houses weekly.
-      - **Monthly House Planning**: Coordinate monthly plans.
+      - ~~**Daily House Search**: Search for houses daily.~~
+      - ~~**Weekly House Visits**: Visit houses weekly.~~
+      - ~~**Monthly House Planning**: Coordinate monthly plans.~~
+
+1. ### **wedding Reservation**
+
+    - **Goal:** *wedding Reservation by the end of the Month (September) or first half of next month of 2023.*
+
+    - **Tasks**:
+      - **wedding Reservation**: Reserve the wedding in the mosque in front of city stars.
+      - **buy wedding suit and dress**: buy wedding suit and dress.
+      - **reserve a makeup artist**: reserve a makeup artist.
+      - **prepare wedding papers**: Prepare the wedding papers and call the sheikh to confirm the papers.
+      - **invite people**: Invite people on facebook and work.
+
+1. ### Honey Moon
+
+      - **Goal:**
+        - *Reserve Honey Moon by the end of the Month (September) or first half of next month of 2023 preferably after wedding immediately or the next day.*
+  
+      - **Tasks**:
+        - **check cruse**: check if cruse is applicable.
+        - **check hotel**: if cruse is not check if hotel is applicable.
+
+1. ### Alex Move
+
+      - **Goal:**
+        - *Move to Alex by the end of the Month (September) or first half of next month of 2023.*
+  
+      - **Tasks**:
+        - **Ask for home telephone and internet**: buy internat from and bring contract with you.
+        - ~~**buy water filter**: buy water filter for clean water.~~
+        - **before moving clean and buy food**: clean the house and buy food to go there directly.
+        - **Alex Buy Requirements**: Prepare the Gas, buy Tv, Blinder, and Winter Bed Covers.
+        - **Alex Move**: Move to Alex.
 
 ---
 
